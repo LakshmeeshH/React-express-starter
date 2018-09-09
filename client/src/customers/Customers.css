@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+  padding: 0;
+  margin: auto;
+  width: 30%;
+}
+
+li {
+  font-size: 1.3rem;
+  line-height: 2rem;
+  border-bottom: 1px dotted #777;
+}
